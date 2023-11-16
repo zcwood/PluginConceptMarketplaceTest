@@ -9,7 +9,7 @@
     <name>PluginConcept</name>
 
     <!-- A displayed Vendor name or Organization ID displayed on the Plugins Page. -->
-    <vendor email="bennettsm@vcu.edu" url="https://www.yourcompany.com">CMSC451</vendor>
+    <vendor email="woodzc@vcu.edu" url="https://github.com/zcwood/PluginConceptMarketplaceTest">CMSC451</vendor>
 
     <!-- Description of the plugin displayed on the Plugin Page and IDE Plugin Manager.
          Simple HTML elements (text formatting, paragraphs, and lists) can be added inside of <![CDATA[ ]]> tag.
@@ -35,5 +35,8 @@
         </action>
         <!-- Add more actions if needed -->
     </actions>
+
+       //decsribe the plugin
+    <description>This is a test plug-in to ensure that later odwn the line, we will be able to publish a bigger plugin</description>
 
 </idea-plugin>
